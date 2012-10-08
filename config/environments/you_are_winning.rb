@@ -2,6 +2,6 @@
 puts ""
 puts ""
 puts "your secret instructions are:"
-puts "put all your previous commands into a text file and email it to staff@devbootcamp.com"
+puts "put all your previous commands into a text file and email upload it to a gist"
 puts ""
 puts ""
